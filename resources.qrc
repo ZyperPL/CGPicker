@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>res/icons/circle.svg</file>
+  <file>res/icons/rectangle.svg</file>
+  <file>res/icons/polygon.svg</file>
+  <file>res/icons/freeline.svg</file>
+  <file>res/icons/pointer.svg</file>
+  <file>res/icons/colors.svg</file>
+</qresource>
+</RCC>
